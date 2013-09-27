@@ -1,0 +1,6 @@
+{"ts":1380142849517,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1380143059946,"patch":[[{"diffs":[[1,"#include <stdio.h>\n\nint main()\n{\n    char firstName[20];\n    strcpy(firstName, \"Michael\")\n    printf(\"Your first name is %s\", firstName);\n    \n    \n    \n}"]],"start1":0,"start2":0,"length1":0,"length2":154}]],"length":154,"saved":false}
+{"ts":1380143108821,"patch":[[{"diffs":[[0,"ichael\")"],[1,";"],[0,"\n    pri"]],"start1":81,"start2":81,"length1":16,"length2":17}]],"length":155,"saved":false}
+{"ts":1380143169433,"patch":[[{"diffs":[[0,"tName);\n"],[1,"    return(0);\n"],[0,"    \n   "]],"start1":131,"start2":131,"length1":16,"length2":31}]],"length":170,"saved":false}
+{"ts":1380143390259,"patch":[[{"diffs":[[0,"tdio.h>\n"],[1,"#include <cstring.h>"],[0,"\nint mai"]],"start1":11,"start2":11,"length1":16,"length2":36}]],"length":190,"saved":false}
+{"ts":1380143411336,"patch":[[{"diffs":[[0,"<cstring"],[-1,".h"],[0,">\nint ma"]],"start1":28,"start2":28,"length1":18,"length2":16}]],"length":188,"saved":false}

@@ -1,0 +1,1 @@
+{"ts":1380121542403,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"#include <stdio.h>\n\nint main (int argc, char *argv[])\n{\n\n\tint i = 0;\n\n\tdo {\n\t\ti = getchar();\n\t\t    getchar();\n\n\t\tif ( i == 'X' )\n\t\t\tcontinue;\n\n\t\tprintf(\"ASCII %d.\\n\", i);\n\n\t} while( i != 'Q');\n\n}\n"]],"start1":0,"start2":0,"length1":0,"length2":196}]],"length":196}

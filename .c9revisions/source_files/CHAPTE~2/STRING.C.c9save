@@ -1,0 +1,12 @@
+{"ts":1380143301691,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"#include <stdio.h>\r\n\r\nmain()\r\n{\r\n    char    name[21];\r\n\r\n    strcpy(name, \"Mark\");\r\n    printf(\"The contents of name are %s\\n\", name);\r\n\r\n    fflush(stdin);\r\n    getchar();\r\n}\r\n"]],"start1":0,"start2":0,"length1":0,"length2":178}]],"length":178}
+{"contributors":[],"silentsave":false,"ts":1380143396549,"patch":[[{"diffs":[[0,"tdio.h>\r"],[1,"\n#include <cstring>\r"],[0,"\n\r\nmain("]],"start1":11,"start2":11,"length1":16,"length2":36}]],"length":198,"saved":false}
+{"ts":1380143399867,"patch":[[{"diffs":[[0,"<cstring"],[1,".h"],[0,">\r\n\r\nmai"]],"start1":29,"start2":29,"length1":16,"length2":18}]],"length":200,"saved":false}
+{"ts":1380143407446,"patch":[[{"diffs":[[0,"<cstring"],[-1,".h"],[0,">\r\n\r\nmai"]],"start1":29,"start2":29,"length1":18,"length2":16}]],"length":198,"saved":false}
+{"ts":1380143507567,"patch":[[{"diffs":[[0,"de <"],[-1,"c"],[0,"string"],[1,".h"],[0,">\r\n\r"]],"start1":26,"start2":26,"length1":15,"length2":16}]],"length":199,"saved":false}
+{"ts":1380143521203,"patch":[[{"diffs":[[0,"    "],[-1,"fflush(stdin);"],[0,"\r\n  "]],"start1":160,"start2":160,"length1":22,"length2":8}]],"length":185,"saved":false}
+{"ts":1380143534231,"patch":[[{"diffs":[[0,"name);\r\n"],[1,"    return(0);"],[0,"\r\n    \r\n"]],"start1":150,"start2":150,"length1":16,"length2":30},{"diffs":[[0,"    "],[-1,"getchar();"],[1,"\r\n    "],[0,"\r\n}\r"]],"start1":180,"start2":180,"length1":18,"length2":14}]],"length":195,"saved":false}
+{"ts":1380143538922,"patch":[[{"diffs":[[0,"g.h>\r\n\r\n"],[1,"int "],[0,"main()\r\n"]],"start1":35,"start2":35,"length1":16,"length2":20}]],"length":199,"saved":false}
+{"ts":1380143697308,"patch":[[{"diffs":[[0,"h>\r\n"],[-1,"#include <string.h>"],[0,"\r\n\r\n"]],"start1":16,"start2":16,"length1":27,"length2":8}]],"length":180,"saved":false}
+{"ts":1380143713291,"patch":[[{"diffs":[[0,"dio.h>\r\n"],[1,"#include <cstring>"],[0,"\r\n\r\nint "]],"start1":12,"start2":12,"length1":16,"length2":34}]],"length":198,"saved":false}
+{"ts":1380143721855,"patch":[[{"diffs":[[0,".h>\r"],[-1,"\n#include <cstring>\r"],[0,"\n\r\ni"]],"start1":15,"start2":15,"length1":28,"length2":8}]],"length":178,"saved":false}
+{"ts":1380144684394,"patch":[[{"diffs":[[0,"tdio.h>\r"],[1,"\n#include <ctype.h>\r\n#include <string.h>\r"],[0,"\n\r\nint m"]],"start1":11,"start2":11,"length1":16,"length2":57}]],"length":219,"saved":false}
