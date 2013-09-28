@@ -1,0 +1,13 @@
+
+Functions only receive copies of the variables passed to them.
+
+(Pass by Value rather than Pass by Reference.)  Means it makes a copy of 
+the values of the original variable, but it cannot change the original variable.
+
+
+
+Large items like strings or arrays cnnot be passed to functions either.
+A function needs to know the address of a variable if it is to affect the original variable.
+
+printf sends the address which can go to that address in memory 
+to use pointer as function arguments.
