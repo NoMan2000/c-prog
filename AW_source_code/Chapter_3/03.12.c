@@ -1,4 +1,3 @@
-Figure 3.12  Function draw_circle
 /*
  * Draws a circle
  */

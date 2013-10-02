@@ -1,4 +1,3 @@
-Figure 3.23  Function scale
 /*
  * Multiplies its first argument by the power of 10 specified
  * by its second argument.

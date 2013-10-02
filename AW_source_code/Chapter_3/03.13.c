@@ -1,4 +1,3 @@
-Figure 3.13  Function draw_triangle
 /*
  * Draws a triangle
  */

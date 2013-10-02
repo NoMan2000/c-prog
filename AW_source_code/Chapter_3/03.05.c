@@ -1,4 +1,3 @@
-Figure 3.5  Flat Washer Program
 /*
  * Computes the weight of a batch of flat washers.
  */
@@ -52,11 +51,3 @@ main(void)
 
       return (0);
 }
- 
-Inner diameter in centimeters> 1.2
-Outer diameter in centimeters> 2.4
-Thickness in centimeters> 0.1
-Material density in grams per cubic centimeter> 7.87
-Quantity in batch> 1000
- 
-The expected weight of the batch is 2670.23 grams.

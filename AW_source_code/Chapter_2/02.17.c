@@ -1,5 +1,4 @@
-Figure 2.17  Revised Start of  main Function for Coin Evaluation
-
+#include <stdio.h>
 int
 main(void)
 {
@@ -20,4 +19,4 @@ main(void)
       scanf("%c%c%c", &first, &middle, &last);
       printf("Hello %c%c%c, let's check your coins' value in %d.\n",
              first, middle, last, year);
-      ...
+}

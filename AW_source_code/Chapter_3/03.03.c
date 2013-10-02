@@ -1,4 +1,3 @@
-Figure 3.3  Calculating the Area and the Circumference of a Circle
 /*
  * Calculates and displays the area and circumference of a circle
  */
@@ -8,8 +7,6 @@ Figure 3.3  Calculating the Area and the Circumference of a Circle
 
 int
 main(void)
-(continued)
-Figure 3.3  (continued)
 {
       double radius; /* input - radius of a circle	*/
       double area;   /* output - area of a circle 	*/
@@ -32,6 +29,3 @@ Figure 3.3  (continued)
       return (0);
 }
 
-Enter radius> 5.0
-The area is 78.5397
-The circumference is 31.4159

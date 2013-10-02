@@ -1,4 +1,3 @@
-Figure 3.21  Functions find_circum and find_area
 
 /*
  * Computes the circumference of a circle with radius r.

@@ -1,4 +1,3 @@
-Figure 3.2  Outline of Program Circle
 /*
  * Calculates and displays the area and circumference of a circle
  */
@@ -14,14 +13,20 @@ main(void)
       double circum;    /* output - circumference      */
 
       /* Get the circle radius */
-
+      printf("What is the circumference of your circle?\n");
+      scanf("%lf", &radius);
       /* Calculate the area */
          /* Assign PI * radius * radius to area. */
 
+      area = PI * radius * radius;  
+
       /* Calculate the circumference */
          /* Assign 2 * PI * radius to circum. */
+      circum = 2 * PI * radius;
 
       /* Display the area and circumference */
+      printf("%.2f is the area and %.2f is the circumference\n", area, circum);
+      /* Use %d to get an interesting error. */
 
       return (0);
 }

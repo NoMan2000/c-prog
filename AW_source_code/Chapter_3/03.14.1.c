@@ -1,15 +1,9 @@
 /* Draws a stick figure */
 
 #include <stdio.h>
-
-/* Function prototypes */
-void draw_circle(void);	/* Draws a circle	*/
-
-void draw_intersect(void);	/* Draws intersecting lines	*/
-
-void draw_base(void);	/* Draws a base line 	*/
-
-void draw_triangle(void);	/* Draws a triangle	*/
+#include "drawHeaders.h"
+/* Function prototypes are put into an external header file.*/
+#include "drawHeaders.c"
 
 /* You would probably split these functions into header and different C files at this point. */
 

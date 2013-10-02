@@ -1,4 +1,3 @@
-Figure 3.18  Function print_rboxed and Sample Run
 /*
  * Displays a real number in a box.
  */
@@ -12,8 +11,4 @@ print_rboxed(double rnum)
       printf("***********\n");
 }
 
-***********
-*         *
-*  135.68 *
-*         *
-***********
+

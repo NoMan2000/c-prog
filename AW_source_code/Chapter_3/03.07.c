@@ -1,4 +1,3 @@
-Figure 3.7  Square Root Program
 /*
  * Performs three square root computations
  */
@@ -34,8 +33,8 @@ main(void)
       return (0);
 }
 
-Enter the first number> 9.0
+/* Enter the first number> 9.0
 The square root of the first number is 3.00
 Enter the second number> 16.0
 The square root of the second number is 4.00
-The square root of the sum of the two numbers is 5.00
+The square root of the sum of the two numbers is 5.00 */
